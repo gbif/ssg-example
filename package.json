@@ -1,0 +1,21 @@
+{
+  "name": "gbif-ssg-example",
+  "version": "1.0.0",
+  "description": "An example site using the GBIF gulp pluginss for static sites",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gbif",
+    "ssg"
+  ],
+  "author": "gbif <info@gbif.org>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "gbif-ssg": "gbif/ssg.git#74d15069e703e104d1a4a8230887d12bf6f1972f",
+    "gulp": "^3.9.0",
+    "highlight.js": "^9.1.0"
+  }
+}

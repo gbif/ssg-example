@@ -1,0 +1,61 @@
+# Language translations for shared variables across pages. I.e. navigation buttons, skip links etc.
+
+siteName:
+  en: SSG
+  da: SSG
+  ar: SSG
+
+NavSearch:
+  en: Search...
+  ar: البحث عن
+  da: Søg
+
+NavMenu:
+  en: Menu
+  ar: قائمة الطعام
+  da: Menu
+
+searchPlaceholder:
+  en: Search...
+  ar: البحث عن
+  da: Søg
+
+skipLink:
+  en: Skip to main content
+  ar: انتقل إلى المحتوى الرئيسي
+  da: Gå til hovedindhold
+
+languageSelector_title:
+  en: Select language
+  ar: اختار اللغة
+  da: Vælg sprog
+
+translationNotAvailable:
+  en: This text is not available in english
+  ar: هذا النص غير متوفر في اللغة العربية
+  da: Denne side er ikke tilgængelig på dansk
+
+
+# The format is
+# key:
+#   languageKey: translation
+#
+# Use underscore for subdividing. For readability seperate keys with a new line (as below)
+#
+# An example
+#
+# share:
+#   en: Share
+#   dk: Del
+#
+# skipLink:
+#   en: Skip to main content
+#   dk: Hop til hovedindholdet
+#
+# article_author:
+#   en: Author
+#   dk: Forfatter
+#
+# article_date:
+#   en: Date
+#   dk: Dato
