@@ -4,6 +4,7 @@
   "description": "An example site using the GBIF gulp pluginss for static sites",
   "main": "gulpfile.js",
   "scripts": {
+    "install": "node_modules/bower/bin/bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
