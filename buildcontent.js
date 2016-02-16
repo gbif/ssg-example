@@ -5,7 +5,7 @@
 function installPackages() {
     console.log('Not content only. Install from npm');
     const exec = require('child_process').exec;
-    const child = exec('rm -rf node_modules; npm install;', function (error, stdout, stderr){
+    const child = exec('rm -rf node_modules; rm -rf bower_components; npm install;', function (error, stdout, stderr){
         if (error !== null) {
             console.log('exec error: ' + error);
         }
