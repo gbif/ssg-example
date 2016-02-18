@@ -1,22 +1,43 @@
 .article.home {
-	.block-first {
+	.block.block-first {
 		background-color #AFBED3
 		background-image url('/images/lake3.jpg')
 		background-size cover
 		background-position center
-		h1 {
-			color white
-			border none
-			text-shadow 0px 0px 5px rgba(0,0,0,0.3)
-			padding vr-block(2) 0 vr-block(4) 0
+		margin-bottom 0
+		.block-content {
+			h1 {
+				color white
+				border none
+				text-shadow 0px 0px 5px rgba(0, 0, 0, 0.3)
+				padding vr-block(2) 0 vr-block(4) 0
+			}
 		}
 		+.block > .block-content > p:first-child>em:after {
 			display block
 			content ' '
-			width 30%
+			//width 30%
 			margin auto
 			padding-top vr-block(1)
-			border-bottom solid 1px deepskyblue
+			border-bottom $articleHeader_border
+		}
+	}
+	.block {
+		max-width none
+		.block-content {
+			margin-left auto
+			margin-right auto
+			padding 0 $articleMarginSmall
+		}
+	}
+}
+
++isAbove($laptop) {
+	.article.home {
+		.block {
+			.block-content {
+				padding 0 $articleMarginLarge
+			}
 		}
 	}
 }

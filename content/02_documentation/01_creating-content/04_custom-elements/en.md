@@ -1,6 +1,8 @@
 ---
 title: Custom elements
 description: How to create and insert custom HTML
+category: Documentation
+subCategory: Content
 ---
 
 # Custom elements

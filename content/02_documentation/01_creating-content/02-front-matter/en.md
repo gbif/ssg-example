@@ -1,11 +1,16 @@
 ---
 title: Front matter
 description: How to add meta data to a markdown file
+image: /images/lake3.jpg
+imageTitle: Rain on lake How to add meta data to a markdown file How to add meta data to a markdown file
+imageLink: /images/lake3.jpg
+category: Documentation
+subCategory: Creating content
 ---
 
 # Front matter
 
-The article content is written in markdown. But we need some meta data to know what to do with the file. This is added as so called `front matter` in the beginning of the file.
+_The article content is written in markdown. But we need some meta data to know what to do with the file. This is added as so called `front matter` in the beginning of the file._
 
 ## Format
 This data has to be at the beginning of all files. Notice that it starts and ends with --- . It should include as a minimum include a title.
@@ -23,6 +28,7 @@ This data has to be at the beginning of all files. Notice that it starts and end
 * style: [none] | myclassname . If present it will be added as classname(s) to the article. seperate classes by space.
 * draft: true | false. If true then it will not be visible. 
 
+------------
 
 Example of an article
 ```
