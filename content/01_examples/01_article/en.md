@@ -1,5 +1,6 @@
 ---
 title: Article
+category: Examples
 ---
 
 # This article is written in markdown

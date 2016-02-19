@@ -1,5 +1,7 @@
 ---
 title: What is markdown
+category: Documentation
+subCategory: Creating content
 ---
 
 # What is markdown

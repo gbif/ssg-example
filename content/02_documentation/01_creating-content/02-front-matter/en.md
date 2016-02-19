@@ -28,9 +28,9 @@ This data has to be at the beginning of all files. Notice that it starts and end
 * style: [none] | myclassname . If present it will be added as classname(s) to the article. seperate classes by space.
 * draft: true | false. If true then it will not be visible. 
 
-------------
 
-Example of an article
+
+### Example of an article
 ```
 ---
 title: Front matter
