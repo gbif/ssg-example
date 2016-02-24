@@ -3,7 +3,7 @@ title: Getting started
 description: What to remember when creating a new site and what options there is for customizing.
 category: Documentation
 subCategory: Developer
-image: /images/building1.jpeg
+image: /images/building1.jpg
 imageTitle: Cityscape. Photo by Padurariu Alexandru.
 imageLink: https://unsplash.com/photos/ZKBQmgMyf8s
 ---

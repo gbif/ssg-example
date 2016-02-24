@@ -3,7 +3,7 @@ title: What is markdown
 description: A brief introduction to how markdown works
 category: Documentation
 subCategory: Content
-image: /images/building2.jpeg
+image: /images/building2.jpg
 imageTitle: Financial District, Toronto, Canada. Photo Matthew Wiebe.
 imageLink: https://unsplash.com/photos/VviFtDJakYk
 ---

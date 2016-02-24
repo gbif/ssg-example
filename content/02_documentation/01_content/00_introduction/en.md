@@ -3,7 +3,7 @@ title: Getting started
 description: Get started writing content
 category: Documentation
 subCategory: Content
-image: /images/taipei.jpeg
+image: /images/taipei.jpg
 imageTitle: Taipei City, Taiwan. Photo by Eric Huang. 
 imageLink: https://unsplash.com/photos/r75qppvP-FE
 ---

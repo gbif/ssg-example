@@ -1,7 +1,7 @@
 ---
 title: Multilingual
 description: A site can have multiple languages
-image: /images/building2.jpeg
+image: /images/building2.jpg
 imageTitle: Financial District, Toronto, Canada. Photo Matthew Wiebe.
 imageLink: https://unsplash.com/photos/VviFtDJakYk
 category: Examples

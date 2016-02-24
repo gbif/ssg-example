@@ -1,7 +1,7 @@
 ---
 title: Table of contents
 description: How to add a table of contents to you page.
-image: /images/building1.jpeg
+image: /images/building1.jpg
 imageTitle: Cityscape. Photo by Padurariu Alexandru.
 imageLink: https://unsplash.com/photos/ZKBQmgMyf8s
 category: Examples

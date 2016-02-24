@@ -3,7 +3,7 @@ title: Install and build
 description: How to install a fresh site and build it with Gulp
 category: Documentation
 subCategory: Developer
-image: /images/building2.jpeg
+image: /images/building2.jpg
 imageTitle: Financial District, Toronto, Canada. Photo Matthew Wiebe.
 imageLink: https://unsplash.com/photos/VviFtDJakYk
 ---

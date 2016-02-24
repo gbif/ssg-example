@@ -3,7 +3,7 @@ title: FAQ
 style: faq article
 drawer: true
 description: Just an example of how an article could look like with the default style
-image: /images/bw_forest.jpeg
+image: /images/bw_forest.jpg
 imageTitle: Highlands, United States. Photo by Frances Gunn.
 imageLink: https://unsplash.com/photos/8BmNurlVR6M
 category: Examples

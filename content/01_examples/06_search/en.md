@@ -1,7 +1,7 @@
 ---
 title: Search
 description: Articles can be searched, but to get useful results you should use the description field.
-image: /images/taipei.jpeg
+image: /images/taipei.jpg
 imageTitle: Taipei City, Taiwan. Photo by Eric Huang. 
 imageLink: https://unsplash.com/photos/r75qppvP-FE
 category: Examples

@@ -10,7 +10,7 @@ subCategory: Content
 ```styledYaml
 images:
 - title: Măguri-Răcătău, Romania. Photo by Dorel Gnatiuc
-  url: /images/mountain.jpeg
+  url: /images/mountain.jpg
   link: //unsplash.com/photos/rlXgUH7Sh_I
 ```
 
@@ -19,6 +19,6 @@ You can insert normal images in markdown, but if you need larger images that sca
 ```highlight
 images:
 - title: Măguri-Răcătău, Romania. Photo by Dorel Gnatiuc
-  url: /images/mountain.jpeg
+  url: /images/mountain.jpg
   link: //unsplash.com/photos/rlXgUH7Sh_I
 ```
