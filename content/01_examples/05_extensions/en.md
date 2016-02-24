@@ -1,5 +1,7 @@
 ---
 title: Extensions
+description: When markdown isn't enough it can be extended with custom elements
+category: Examples
 ---
 
 # Markdown extensions

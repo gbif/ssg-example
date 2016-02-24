@@ -18,3 +18,8 @@ This is an example of what a static site made with the generator can look like. 
 ## Why
 The first ever website was static. Then came along dynamic sites. Now static is back in vogue. [Why Static Website Generators Are The Next Big Thing](http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/).
 
+Unlike cites that use a content management system like Drupal, Joomla, Sitecore etc to handle the content, this site is generated from text files. 
+
+Each text file becomes a page on the site. And the site structure is decided by the folder structure. This is many ways make it robust and simple to understand - for both developers and content editors.
+
+

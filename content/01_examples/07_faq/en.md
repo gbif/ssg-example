@@ -1,13 +1,21 @@
 ---
 title: FAQ
-category: about
 style: faq article
-toc: forced
+drawer: true
+description: Just an example of how an article could look like with the default style
+image: /images/bw_forest.jpeg
+imageTitle: Highlands, United States. Photo by Frances Gunn.
+imageLink: https://unsplash.com/photos/8BmNurlVR6M
+category: Examples
 ---
 
 # FAQ
 
 A FAQ can be created by using the article format and the table of contents. And to add special styling we can add special stylesheet to this page
+
+<!-- toc -->
+<!-- tocstop -->
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

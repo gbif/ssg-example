@@ -4,4 +4,7 @@ type: menu only
 ---
 
 # An example page
-is it shown. it depends on the yml attribute `type: menu only`
+If the frontmatter includes `type: menu only` then this will only be shown as a category in the menu.
+if you delete `type: menu only` then the page content will be shown.
+
+It depends on the yml attribute `type: menu only`

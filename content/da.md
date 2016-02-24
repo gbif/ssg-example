@@ -5,6 +5,8 @@ style: article home
 
 # I en kant af landet går der blandt om
 
+---------
+
 _Vi flotter med et hold, der vil rundt og se sig om i byen_
 
 > Man kan fremad se, at de har været udset til at læse, at der skal dannes par af ligheder. Dermed kan der afsluttes uden løse ender, og de kan optimeres fra oven af at formidles stort uden brug fra presse. 

@@ -1,13 +1,36 @@
 ---
 title: Table of contents
-toc: true
+description: How to add a table of contents to you page.
+image: /images/building1.jpeg
+imageTitle: Cityscape. Photo by Padurariu Alexandru.
+imageLink: https://unsplash.com/photos/ZKBQmgMyf8s
+category: Examples
 ---
-
 # Table of contents
 
 _Articles can have a table of contents_
 
-Adding a TOC is simple. Just add `toc: true` to the front matter. Depending on screen size the TOC will either be shown or visible when you toggle it with the button in the bottom.
+<!-- toc -->
+<!-- tocstop -->
+
+## How
+Adding a TOC is simple. There is two options
+
+### Option 1
+Just add 
+```
+<!-- t oc -->
+<!-- t ocstop -->
+```
+somewhere in the md file (there shouldn't be a space between `t` and `oc`. It should just be `toc`, but writing so would insert a TOC!. 
+
+### Option 2
+Or you could use the drawer as a TOC by adding 
+
+```
+toc: true
+```
+to the front matter. Depending on screen size the TOC will either be shown or visible when you toggle it with the button in the bottom.
 
 You can read more about [content creation and front matter](/en/documentation/creating-content/front-matter/) in the documentation.
 
