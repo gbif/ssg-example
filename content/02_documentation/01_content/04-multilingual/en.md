@@ -2,7 +2,7 @@
 title: Multilingual
 description: How to create a multilingual site
 category: Documentation
-subCategory: Developer
+subCategory: Content
 ---
 
 # Multilingual
@@ -29,7 +29,7 @@ ar:
   dir: rtl
 ```
 
-You also need to supply a translation file for all the buttons on the site (menu, search, etc.). This is done in the translations.yml file located in the root folder. It looks something like this:
+You also need to supply a translation file for all the buttons on the site (menu, search, etc.). This is done in the `./translations.yml` file located in the root folder. It looks something like this:
 
 ```
 siteName:
