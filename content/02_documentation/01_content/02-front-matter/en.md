@@ -2,8 +2,8 @@
 title: Front matter
 description: How to the add the required meta data to a markdown file
 image: /images/lake3.jpg
-imageTitle: Rain on lake How to add meta data to a markdown file How to add meta data to a markdown file
-imageLink: /images/lake3.jpg
+imageTitle: Description of image and possibly creator.
+imageLink: http://myLink.to/Where/Credit-Goes
 category: Documentation
 subCategory: Content
 ---
@@ -76,8 +76,8 @@ This page looks something like this
 title: Front matter
 description: How to add meta data to a markdown file
 image: /images/lake3.jpg
-imageTitle: Rain on lake How to add meta data to a markdown file How to add meta data to a markdown file
-imageLink: /images/lake3.jpg
+imageTitle: Description of image and possibly creator.
+imageLink: http://myLink.to/Where/Credit-Goes
 category: Documentation
 subCategory: Creating content
 ---
