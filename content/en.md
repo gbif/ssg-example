@@ -1,6 +1,7 @@
 ---
 title: Home
 style: article home
+description: Welcome to an example of a static GBIF site
 ---
 
 # Static Site Generation with Gulp

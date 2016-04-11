@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Introduction
 description: Get started writing content
 category: Documentation
 subCategory: Content
@@ -8,7 +8,7 @@ imageTitle: Taipei City, Taiwan. Photo by Eric Huang.
 imageLink: https://unsplash.com/photos/r75qppvP-FE
 ---
 
-# Getting started
+# Introduction
 
 Unlike cites that use a content management system like Drupal, Joomla, Sitecore etc to handle the content, this site is generated from text files. 
 
